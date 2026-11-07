@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pkl
+*.joblib
+*.csv
+.ipynb_checkpoints/
+.pytest_cache/
